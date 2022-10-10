@@ -94,7 +94,6 @@
     <ItemGroup>
         <Compile Include="Commands\CallCommand.cs" />
         <Compile Include="Config.cs" />
-        <Compile Include="Interfaces\Message.cs" />
         <Compile Include="Plugin.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="Translations.cs" />
